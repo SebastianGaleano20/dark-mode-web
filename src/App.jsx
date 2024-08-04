@@ -1,5 +1,5 @@
 import { useEffect } from "react";
-import {applyTheme} from './utils/applyTheme.js'
+import { applyTheme }  from './utils/applyTheme.js'
 import useTheme from './stores/useTheme.js'
 
 
@@ -22,7 +22,7 @@ export default function App() {
        type="button"
        className="p-4 rounded bg-black dark:bg-white text-white dark:text-black font-semibold"
      >
-        Dark Side
+        Dark aaSide
      </button>
    </section>
  </main>
