@@ -1,4 +1,4 @@
-import { THEME_TYPES } from "../constants";
+import { THEME_TYPES } from "../constants/theme.js";
 
 // for tailwind css, need the change the root
 export const applyTheme = (theme) => {
